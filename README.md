@@ -13,7 +13,7 @@ A feature-rich mobile application built for a mobile repair shop client to strea
 - **Business Intelligence Summary:** Built-in operations overview for daily activity tracking.
 
 ## 🛠️ Tech Stack & Tools
-- **Platform:** Kodular / MIT App Inventor (Block-Based Logic)
+- **Platform:** Kodular 
 - **Local Utilities:** Custom build tooling & APKTool decompilation workflows
 - **Target OS:** Android
 
